@@ -4,7 +4,8 @@ import viteLogo from '/vite.svg'
 // import './App.css'
 import Nav from './nav/nav'
 import Footer from './footer/footer'
-import MyComponents from './myComponents/myComponents'
+import MyComponents from './MyComponents/MyComponents'
+// import MyComponents from './MyComponents/myComponents'
 // import styles from './App.module.css'
 
 function App() {
