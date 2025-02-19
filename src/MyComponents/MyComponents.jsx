@@ -1,5 +1,5 @@
 import Quotes from '../Quotes/quotes';
-import styles from './myComponents.module.css'
+import styles from './MyComponents.module.css'
 
 const MyComponents = () =>{
 
